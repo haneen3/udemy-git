@@ -1,4 +1,4 @@
-##Udemy-git course
+## Introduction to Git and Github course
 ###First assignment
-Name: Haneen Ibrahim
-Note: Good Luck
+.Name: Haneen Ibrahim
+.Note: Basics
