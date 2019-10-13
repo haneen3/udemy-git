@@ -1,4 +1,4 @@
 ## Introduction to Git and Github course
 ### First assignment
-Name: Haneen Ibrahim
-Note: Basics
+* __Name:__ Haneen Ibrahim
+* __Note:__ Basics
